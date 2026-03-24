@@ -34,8 +34,8 @@
 
 ### 1. Клонирование репозитория
 
-git https://github.com/Borbad062/EM-devops-test.git
-cd EM-devops-test
+- git https://github.com/Borbad062/EM-devops-test.git
+- cd EM-devops-test
 
 2. Создание файла окружения
 
@@ -68,7 +68,7 @@ Hello from Effective Mobile!
 ## Просмотр логов:
 
 - docker-compose logs backend
--docker-compose logs nginx
+- docker-compose logs nginx
 
 ## Остановка проекта
 
@@ -76,7 +76,7 @@ Hello from Effective Mobile!
 
 
 ## Структура проекта
-effective-mobile-test/
+EM-devops-test/
 
 - ├── backend/
 - │   ├── Dockerfile          # Конфигурация образа backend
