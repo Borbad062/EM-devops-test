@@ -85,7 +85,7 @@ EM-devops-test/
 - │   └── nginx.conf          # Конфигурация Nginx
 - ├── docker-compose.yml      # Оркестрация сервисов
 - ├── .dockerignore           # Docker ignore правила
-- ├── .env                    # Переменные окружения
+- ├── .env.example            # Пример переменных окружения
 - ├── .gitignore              # Игнорируемые файлы
 - └── README.md               # Документация
 
