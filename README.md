@@ -34,7 +34,7 @@
 
 ### 1. Клонирование репозитория
 
-- git https://github.com/Borbad062/EM-devops-test.git
+- git clone https://github.com/Borbad062/EM-devops-test.git
 - cd EM-devops-test
 
 2. Создание файла окружения
@@ -84,6 +84,7 @@ EM-devops-test/
 - ├── nginx/
 - │   └── nginx.conf          # Конфигурация Nginx
 - ├── docker-compose.yml      # Оркестрация сервисов
+- ├── .dockerignore           # Docker ignore правила
 - ├── .env                    # Переменные окружения
 - ├── .gitignore              # Игнорируемые файлы
 - └── README.md               # Документация
